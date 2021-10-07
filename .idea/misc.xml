@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1Android/ANDRO_21/12_01_2021/6-21/8-2021/JetpackComposingNow/JetpackComposeNavigation/app/src/main/res/layout/activity_second.xml" value="0.3625" />
+        <entry key="..\:/1Android/ANDRO_21/12_01_2021/6-21/8-2021/JetpackComposingNow/JetpackComposeNavigation/app/src/main/res/layout/fragment_primer.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
